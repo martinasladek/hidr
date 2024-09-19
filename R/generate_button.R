@@ -18,6 +18,7 @@
 #'  Some text
 #'
 #'  `r my_awesome_button`
+#'
 #' }
 generate_button <- function(
     colour_when_hidden = "black",
