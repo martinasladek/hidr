@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# hidR
+# hidR <a href='https://github.com/martinasladek/hidr'><img src='inst/hex/hex-hidR.png' align="right" hspace="20"  height="139" /></a>
 
 <!-- badges: start -->
 <!-- badges: end -->
